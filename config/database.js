@@ -7,7 +7,7 @@ module.exports = ({ env }) => {
     postgres: {
       connection: {
         connectionString: env('POSTGRES_URL'),
-        host: env('POSTGRES_HOST', 'localhost'),
+        // host: env('POSTGRES_HOST', 'localhost'),
         // port: env.int('DATABASE_PORT', 5432),
         database: env('POSTGRES_DATABASE', 'strapi'),
         user: env('POSTGRES_USER', 'strapi'),
