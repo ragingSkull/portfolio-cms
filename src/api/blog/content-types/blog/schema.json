@@ -21,6 +21,12 @@
     },
     "link": {
       "type": "text"
+    },
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "text"
     }
   }
 }
