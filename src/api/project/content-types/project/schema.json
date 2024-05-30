@@ -32,6 +32,12 @@
     },
     "meta_description": {
       "type": "text"
+    },
+    "image": {
+      "type": "text"
+    },
+    "image_alt": {
+      "type": "string"
     }
   }
 }
