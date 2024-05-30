@@ -20,6 +20,18 @@
     },
     "link": {
       "type": "string"
+    },
+    "details": {
+      "type": "richtext"
+    },
+    "long_description": {
+      "type": "text"
+    },
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "text"
     }
   }
 }

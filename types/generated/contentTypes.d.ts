@@ -404,6 +404,10 @@ export interface ApiProjectProject extends Schema.CollectionType {
     title: Attribute.String;
     description: Attribute.Text;
     link: Attribute.String;
+    details: Attribute.RichText;
+    long_description: Attribute.Text;
+    meta_title: Attribute.String;
+    meta_description: Attribute.Text;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
