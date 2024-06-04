@@ -379,6 +379,7 @@ export interface ApiBlogBlog extends Schema.CollectionType {
     link: Attribute.Text;
     meta_title: Attribute.String;
     meta_description: Attribute.Text;
+    banner: Attribute.Text;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
