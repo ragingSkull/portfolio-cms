@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "workspaces": ["./src/plugins/strapi-plugin-ckeditor"],
+  "workspaces": [
+    "./src/plugins/strapi-plugin-ckeditor"
+  ],
   "dependencies": {
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.11",
     "@strapi/plugin-cloud": "4.24.4",
@@ -22,6 +24,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
+    "strapi-plugin-ckeditor": "^0.1.0",
     "styled-components": "5.3.3"
   },
   "author": {
