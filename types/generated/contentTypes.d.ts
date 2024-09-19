@@ -377,7 +377,7 @@ export interface ApiBlogBlog extends Schema.CollectionType {
     title: Attribute.Text & Attribute.Required;
     content: Attribute.RichText;
     link: Attribute.Text;
-    meta_title: Attribute.String;
+    meta_title: Attribute.Text;
     meta_description: Attribute.Text;
     banner: Attribute.Text;
     createdAt: Attribute.DateTime;
@@ -410,7 +410,7 @@ export interface ApiProjectProject extends Schema.CollectionType {
     meta_title: Attribute.String;
     meta_description: Attribute.Text;
     image: Attribute.Text;
-    image_alt: Attribute.String;
+    image_alt: Attribute.Text;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;

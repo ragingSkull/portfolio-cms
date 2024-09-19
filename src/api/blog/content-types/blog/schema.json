@@ -23,7 +23,7 @@
       "type": "text"
     },
     "meta_title": {
-      "type": "string"
+      "type": "text"
     },
     "meta_description": {
       "type": "text"

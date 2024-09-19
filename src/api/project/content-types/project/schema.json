@@ -37,7 +37,7 @@
       "type": "text"
     },
     "image_alt": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
