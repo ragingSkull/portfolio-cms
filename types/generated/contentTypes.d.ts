@@ -380,6 +380,7 @@ export interface ApiBlogBlog extends Schema.CollectionType {
     meta_title: Attribute.Text;
     meta_description: Attribute.Text;
     banner: Attribute.Text;
+    content_2nd: Attribute.RichText;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;

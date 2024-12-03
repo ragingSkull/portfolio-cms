@@ -30,6 +30,9 @@
     },
     "banner": {
       "type": "text"
+    },
+    "content_2nd": {
+      "type": "richtext"
     }
   }
 }
