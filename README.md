@@ -12,4 +12,4 @@ Managing all contents displaying in [rotten • egg](https://rottenegg.dev/)
 2. Node
 
 ## Future Plans
-- Upgrade version
+- Upgrade version [Latest](https://strapi.io/)
