@@ -1,6 +1,6 @@
 [<img src="https://rottenegg.dev/static/favicon.png" alt="Coff33Tea Logo" width="150px" height="100%">](https://strapi.rottenegg.dev/admin/login)
 
-## rotten • egg CMS
+## rotten • egg Content Management System
 Managing all contents displaying in [rotten • egg](https://rottenegg.dev/) 
 
 ## Versions
